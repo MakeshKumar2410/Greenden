@@ -1,4 +1,4 @@
-Greenden 🌱
+Greenden
 
 Greenden is a modern, fully responsive website built using HTML and Tailwind CSS. It is designed to provide a seamless experience across all devices including desktops, tablets, and mobile phones.
 
