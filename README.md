@@ -21,7 +21,3 @@ Technologies Used 🛠️
 HTML5 – For website structure
 
 Tailwind CSS – For modern and responsive styling
-
-Installation 💻
-
-Clone the repository:
